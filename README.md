@@ -11,7 +11,9 @@ _Basic file format:_
 **Path configuraions:**
     
 logDir: Path to logs
+
 reposDir: Path where repositories pull&builds
+
 distPath: Path to  build results
 
 **Repositories configurations:**
